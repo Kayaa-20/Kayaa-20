@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning JavaScript, JQuery, Python and PHP
-- - 📫 How to reach me: flz_ky20@outlook.com
+- 📫 How to reach me: flz_ky20@outlook.com
